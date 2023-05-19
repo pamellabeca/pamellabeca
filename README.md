@@ -1,5 +1,5 @@
 ## Olá! Eu sou Pamella Rebeca e sejam bem vindas(os)! 👋
-👋 Olá! Sou [seu nome], uma desenvolvedora Full Stack iniciante apaixonada por criar soluções inovadoras e aprender constantemente no mundo da programação. Estou empolgada em compartilhar um pouco sobre mim e minha jornada até aqui.
+👋 Olá! Sou Pamella Rebeca, uma desenvolvedora Full Stack iniciante apaixonada por criar soluções inovadoras e aprender constantemente no mundo da programação. Estou empolgada em compartilhar um pouco sobre mim e minha jornada até aqui.
 
 🚀 Embora esteja nos primeiros passos da minha carreira como desenvolvedora Full Stack, possuo conhecimentos básicos em diversas tecnologias. Tenho familiaridade com linguagens como Python, Java e SQL, além de conhecimentos em HTML, CSS e JavaScript.
 
