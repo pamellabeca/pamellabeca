@@ -61,6 +61,14 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="TITAN" src="https://www.titanci.com.br/_next/static/media/LogoFooter.1774f537.svg"/>](https://www.titanci.com.br/)
+
+**Volunteer Software Engineer** \
+[**TITAN CI**](https://www.titanci.com.br/) • Part-time \
+Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Figma`, `UI/UX`, `PostgreSQL`, `Prisma`, `API`, `POO`\
+Projetos em destaque: ['4 estações' Mobile APP](https://play.google.com/store/apps/details?id=com.app.dados_saude), [ÓiaFia's Internal Dashboard](https://oiafia.com.br/)
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="RadixEng" src="https://media.licdn.com/dms/image/v2/C4E0BAQGf83BBbYnPTg/company-logo_200_200/company-logo_200_200/0/1656686595482/radix_engenharia_e_software_logo?e=1750291200&v=beta&t=RCIKxFhGtTxBKOa9I5oTn7EIIzQFxVOnni8LPtl_PMc"/>](https://radixeng.com.br/)
 
 **Software Engineer Intern** \
