@@ -71,7 +71,7 @@ Projetos em destaque: ['4 estações' Mobile APP](https://play.google.com/store/
 
 [<img align="left" height="94px" width="94px" alt="RadixEng" src="https://media.licdn.com/dms/image/v2/C4E0BAQGf83BBbYnPTg/company-logo_200_200/company-logo_200_200/0/1656686595482/radix_engenharia_e_software_logo?e=1750291200&v=beta&t=RCIKxFhGtTxBKOa9I5oTn7EIIzQFxVOnni8LPtl_PMc"/>](https://radixeng.com.br/)
 
-**Software Engineer Intern** \
+**Software Engineer Intern (FullStack)** \
 [**RadixEng**](https://radixeng.com.br/) • Part-time \
 Linguagens & Tecnologias: `ReactJS`, `C#`, `Typescript`, `.NET`, `SQL`, `ASP.NET`, `xUnit`, `POO`\
 Projetos em destaque: [Linde's Internal SaaS](https://www.linde.com/), [Acelen's Data Governance Platform](https://www.acelen.com.br/)
@@ -87,13 +87,9 @@ Projetos em destaque: [Event Organizer of ENSI 2024 and 2023](https://ensi.pop-b
 
 [<img align="left" height="94px" width="94px" alt="Jusbrasil" src="https://play-lh.googleusercontent.com/-H9V7ZW-nupRgig2lkCGbU37HunliZpDSVdR30UX6D8s3NXZMQISyxwdl5WXM3qOt9Y"/>](https://www.jusbrasil.com.br/)
 
-**Software Engineer Intern** \
+**Software Engineer Intern (BackEnd LegalOps)** \
 [**Jusbrasil**](https://www.jusbrasil.com.br/) • Part-time \
 Linguagens & Tecnologias: `Python`, `Camunda e BPMN`, `Redash`, `POO`, `Panadas`, `Selenium`, `Request`, `Docker`, `Mocked Test`  \
 Projetos em destaque: [Telefônica's Legal Process Management System](https://www.telefonica.com.br/)
 <br/>
 <br/>
-  
-
-  
- 
