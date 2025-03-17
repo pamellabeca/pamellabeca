@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Github Pages](https://img.shields.io/badge/github%20pages-333333?style=flat&logo=github&logoColor=121013)
+![Azure](https://img.shields.io/badge/azure-333333.svg?style=flat&logo=microsoftazure&logoColor=%230072C6)
 
 **Ferramentas de desenvolvimento**
 
@@ -42,7 +43,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Azure](https://img.shields.io/badge/azure-333333.svg?style=flat&logo=microsoftazure&logoColor=%230072C6)
+
 
 <br/>
 
