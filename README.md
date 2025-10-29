@@ -70,7 +70,7 @@ Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Figma`, `UI/UX`, `PostgreSQL`, `
 Projetos em destaque: ['4 estações' Mobile APP](https://play.google.com/store/apps/details?id=com.app.dados_saude), [ÓiaFia's Internal Dashboard](https://oiafia.com.br/)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="RadixEng" src="https://media.licdn.com/dms/image/v2/C4E0BAQGf83BBbYnPTg/company-logo_200_200/company-logo_200_200/0/1656686595482/radix_engenharia_e_software_logo?e=1750291200&v=beta&t=RCIKxFhGtTxBKOa9I5oTn7EIIzQFxVOnni8LPtl_PMc"/>](https://radixeng.com.br/)
+[<img align="left" height="94px" width="94px" alt="RadixEng" src="https://static.wixstatic.com/media/8e4420_e836a94190814e62aebc479d2cad1c33~mv2.png/v1/crop/x_0,y_0,w_817,h_322/fill/w_410,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20Radix%20branca%20ingl%C3%AAs.png"/>](https://radixeng.com.br/)
 
 **Software Engineer Intern (FullStack)** \
 [**RadixEng**](https://radixeng.com.br/) • Part-time \
