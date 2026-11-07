@@ -24,8 +24,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/5573999844086?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20github.%20Podemos%20conversar%3F">
-    <img width="72" height="72" alt="me" src="https://github.com/user-attachments/assets/5bb9d719-5d24-4deb-945b-57fdd450d4d3" />
-  </a>">
     <img src="https://github.com/user-attachments/assets/5bb9d719-5d24-4deb-945b-57fdd450d4d3" width="48" alt="Profile" />
   </a>
   &nbsp;&nbsp;
