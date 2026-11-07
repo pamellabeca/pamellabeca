@@ -9,25 +9,11 @@
 
 <!-- FLOATING SOCIAL MENU -->
 <p align="center">
-  <a href="mailto:pamellarsilvanascimento@gmail.com">
-    <img src="https://github.com/user-attachments/assets/74466730-de1c-47c8-abe0-c52ad53869fc" width="48" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/pamella-silva-dev/">
-    <img src="https://github.com/user-attachments/assets/fd419476-66d9-44d2-96d2-2e800da6b244" width="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pamellabeca">
-    <img src="https://github.com/user-attachments/assets/4d75d4ad-f14f-4171-a2c7-d9aa64e4e754" width="48" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/5573999844086?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20github.%20Podemos%20conversar%3F">
-    <img src="https://github.com/user-attachments/assets/5bb9d719-5d24-4deb-945b-57fdd450d4d3" width="48" alt="Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/pamella-silva-dev/">
-    <img src="https://github.com/user-attachments/assets/32330980-1a0c-42fb-9009-227af5630b8a" height="48" alt="Technologies and experience" />
-  </a>
+  <a href="mailto:pamellarsilvanascimento@gmail.com"><img src="https://github.com/user-attachments/assets/74466730-de1c-47c8-abe0-c52ad53869fc" width="48" alt="Email" /></a>
+  <a href="https://linkedin.com/in/pamella-silva-dev/"><img src="https://github.com/user-attachments/assets/fd419476-66d9-44d2-96d2-2e800da6b244" width="48" alt="LinkedIn" /></a>
+  <a href="https://github.com/pamellabeca"><img src="https://github.com/user-attachments/assets/4d75d4ad-f14f-4171-a2c7-d9aa64e4e754" width="48" alt="GitHub" /></a>
+  <a href="https://wa.me/5573999844086?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20github.%20Podemos%20conversar%3F"><img src="https://github.com/user-attachments/assets/5bb9d719-5d24-4deb-945b-57fdd450d4d3" width="48" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/pamella-silva-dev/"><img src="https://github.com/user-attachments/assets/32330980-1a0c-42fb-9009-227af5630b8a" height="48" alt="Technologies and experience" /></a>
 </p>
 <!-- ABOUT ME -->
 Software Engineer with experience in Full Stack and Backend Development, building and maintaining applications across different technology stacks.
