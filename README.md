@@ -1,96 +1,48 @@
 ![](https://komarev.com/ghpvc/?username=pamellabeca&color=006bed)
-## Sobre mim
 
-- 🤔 Desenvolvedora FullStack apaixonada por criar soluções inovadoras e aprender constantemente.
-- 🎓 Estudando Engenharia da Computação na UFBA e Tecnologia em Sistemas da Informação na Faculdade Descomplica.
-- 💼 Trabalhando como Desenvolvedora Back End no Jusbrasil.
-- 🌱 Aprendendo mais sobre Python, ReactJS, NodeJS, C#, .NET e Angular.
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img
+    width="100%"
+    alt="Pamella Silva - Full Stack Developer"
+    src="https://github.com/user-attachments/assets/c6700334-949d-4b56-86f6-23764ba12f19"
+  />
+</p>
 
-## Minhas Skills
+<!-- FLOATING SOCIAL MENU -->
+<p align="center">
+  <a href="mailto:pamellarsilvanascimento@gmail.com">
+    <img src="https://github.com/user-attachments/assets/74466730-de1c-47c8-abe0-c52ad53869fc" width="48" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/pamella-silva-dev/">
+    <img src="https://github.com/user-attachments/assets/fd419476-66d9-44d2-96d2-2e800da6b244" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/pamellabeca">
+    <img src="https://github.com/user-attachments/assets/4d75d4ad-f14f-4171-a2c7-d9aa64e4e754" width="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/5573999844086">
+    <img src="https://github.com/user-attachments/assets/5bb9d719-5d24-4deb-945b-57fdd450d4d3" width="48" alt="Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/pamella-silva-dev/">
+    <img src="https://github.com/user-attachments/assets/32330980-1a0c-42fb-9009-227af5630b8a" height="48" alt="Technologies and experience" />
+  </a>
+</p>
+<!-- ABOUT ME -->
+Software Engineer with experience in Full Stack and Backend Development, building and maintaining applications across different technology stacks.
 
-**Aplicações e dados**
+Currently working as a Junior Full Stack Developer at Datum, contributing to software development in a large-scale business environment. Previously worked at Jusbrasil, developing backend solutions for legal operations, and at Radix, contributing to full stack applications.
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/java-333333.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
-![C#](https://img.shields.io/badge/c%23-333333.svg?style=flat&logo=csharp&logoColor=%23239120)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=6DA55F)
-![Vite](https://img.shields.io/badge/vite-333333.svg?style=flat&logo=vite&logoColor=%23646CFF)
+My technical background includes Java, Python, JavaScript, TypeScript, React, Node.js, C#, .NET, PostgreSQL, and Docker. I am particularly interested in software architecture, backend engineering, distributed systems, and building reliable, maintainable solutions.
 
-**Utilidades**
+I hold a degree in Systems Analysis and Development (expected December 2026) and have advanced English proficiency.
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+I value continuous learning, engineering best practices, collaborative development, and solving complex problems through software.
 
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Github Pages](https://img.shields.io/badge/github%20pages-333333?style=flat&logo=github&logoColor=121013)
-![Azure](https://img.shields.io/badge/azure-333333.svg?style=flat&logo=microsoftazure&logoColor=%230072C6)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-<br/>
-
-<a href="https://github.com/pamellabeca" title="Perfil da Pamella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamellabeca&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellabeca&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-PamellaSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pamella-silva-dev/)](https://www.linkedin.com/in/pamella-silva-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-mailto:pamellarebecabispo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:pamellarebecabispo@gmail.com)](mailto:pamellarebecabispo@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/pamellabeca?label=follow&style=social)](https://github.com/pamellabeca)
-
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="TITAN" src="https://www.titanci.com.br/_next/static/media/LogoFooter.1774f537.svg"/>](https://www.titanci.com.br/)
-
-**Volunteer Software Engineer** \
-[**TITAN CI**](https://www.titanci.com.br/) • Part-time \
-Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Figma`, `UI/UX`, `PostgreSQL`, `Prisma`, `API`, `POO`\
-Projetos em destaque: ['4 estações' Mobile APP](https://play.google.com/store/apps/details?id=com.app.dados_saude), [ÓiaFia's Internal Dashboard](https://oiafia.com.br/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="RadixEng" src="https://static.wixstatic.com/media/8e4420_e836a94190814e62aebc479d2cad1c33~mv2.png/v1/crop/x_0,y_0,w_817,h_322/fill/w_410,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20Radix%20branca%20ingl%C3%AAs.png"/>](https://radixeng.com.br/)
-
-**Software Engineer Intern (FullStack)** \
-[**RadixEng**](https://radixeng.com.br/) • Part-time \
-Linguagens & Tecnologias: `ReactJS`, `C#`, `Typescript`, `.NET`, `SQL`, `ASP.NET`, `xUnit`, `POO`\
-Projetos em destaque: [Linde's Internal SaaS](https://www.linde.com/), [Acelen's Data Governance Platform](https://www.acelen.com.br/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="COSIC" src="https://ihac.ufba.br/wp-content/uploads/2018/08/logo-sti-destaque.jpg"/>](https://sti.ufba.br/cosic)
-
-**Information Security Intern** \
-[**STI/UFBA - COSIC**](https://sti.ufba.br/cosic) • Part-time \
-Linguagens & Tecnologias: `Python`, `Linux`, `Shell Script`\
-Projetos em destaque: [Event Organizer of ENSI 2024 and 2023](https://ensi.pop-ba.rnp.br/2024/), [API for Mass Digital Certificate Issuance with GlobalSign]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Jusbrasil" src="https://play-lh.googleusercontent.com/-H9V7ZW-nupRgig2lkCGbU37HunliZpDSVdR30UX6D8s3NXZMQISyxwdl5WXM3qOt9Y"/>](https://www.jusbrasil.com.br/)
-
-**Software Engineer Intern (BackEnd LegalOps)** \
-[**Jusbrasil**](https://www.jusbrasil.com.br/) • Part-time \
-Linguagens & Tecnologias: `Python`, `Camunda e BPMN`, `Redash`, `POO`, `Panadas`, `Selenium`, `Request`, `Docker`, `Mocked Test`  \
-Projetos em destaque: [Telefônica's Legal Process Management System](https://www.telefonica.com.br/)
-<br/>
-<br/>
+<!-- TECHNOLOGIES -->
+<p align="center">
+  <img width="900" height="80" alt="gif (1)" src="https://github.com/user-attachments/assets/4a3b34ac-dad5-444e-abdd-cf0738f2f990" />
+</p>
