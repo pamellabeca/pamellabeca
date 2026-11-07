@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=pamellabeca&color=006bed)
-
 <!-- PROFILE BANNER -->
 <p align="center">
   <img
@@ -46,3 +44,5 @@ I value continuous learning, engineering best practices, collaborative developme
 <p align="center">
   <img width="900" height="80" alt="gif (1)" src="https://github.com/user-attachments/assets/4a3b34ac-dad5-444e-abdd-cf0738f2f990" />
 </p>
+
+ ![](https://komarev.com/ghpvc/?username=pamellabeca&color=006bed)
