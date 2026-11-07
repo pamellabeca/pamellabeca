@@ -42,7 +42,7 @@ I value continuous learning, engineering best practices, collaborative developme
 
 <!-- TECHNOLOGIES -->
 <p align="center">
-  <img width="900" height="80" alt="gif (1)" src="https://github.com/user-attachments/assets/4a3b34ac-dad5-444e-abdd-cf0738f2f990" />
+  <img width="800" height="80" alt="carrossel" src="https://github.com/user-attachments/assets/1ea62fa2-03cd-4464-a233-eff6bfe98d2f" />
 </p>
 
  ![](https://komarev.com/ghpvc/?username=pamellabeca&color=006bed)
